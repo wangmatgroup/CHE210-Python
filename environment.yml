@@ -1,0 +1,9 @@
+name: che210
+channels:
+  - defaults
+dependencies:
+  - python=3.14
+  - matplotlib
+  - scipy
+  - pandas
+  - jupyter
